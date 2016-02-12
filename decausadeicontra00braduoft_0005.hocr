@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decausadeicontra00braduoft_0005.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 416 2372 1405 2412">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 416 2372 1405 2412">
+     <span class='ocr_line' id='line_1_1' title="bbox 416 2372 1405 2412; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 416 2376 632 2412; x_wconf 71' lang='lat' dir='ltr'>MlNERVA</span> <span class='ocrx_word' id='word_1_2' title='bbox 663 2375 812 2411; x_wconf 73' lang='grc' dir='ltr'>(ΞΜΒΗ</span> <span class='ocrx_word' id='word_1_3' title='bbox 844 2388 851 2394; x_wconf 90' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 888 2374 1163 2409; x_wconf 69' lang='lat' dir='ltr'>FRANKFURT</span> <span class='ocrx_word' id='word_1_5' title='bbox 1187 2373 1260 2408; x_wconf 86' lang='grc' dir='ltr'>ΑΜ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1282 2372 1405 2408; x_wconf 85' lang='grc' dir='ltr'>ΜΑΙΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 681 2455 1146 2484">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 681 2455 1146 2484">
+     <span class='ocr_line' id='line_1_2' title="bbox 681 2455 1146 2484; baseline -0.006 0"><span class='ocrx_word' id='word_1_7' title='bbox 681 2457 895 2484; x_wconf 66' lang='lat' dir='ltr'>Unverfinderter</span> <span class='ocrx_word' id='word_1_8' title='bbox 910 2455 1061 2483; x_wconf 67' lang='lat' dir='ltr'>Nochdrud(</span> <span class='ocrx_word' id='word_1_9' title='bbox 1080 2457 1146 2481; x_wconf 78' lang='grc'>1964</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

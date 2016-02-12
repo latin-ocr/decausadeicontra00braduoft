@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decausadeicontra00braduoft_0008.png"; bbox 0 0 1898 3068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 475 1567 1033 1928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 475 1567 1033 1928">
+     <span class='ocr_line' id='line_1_1' title="bbox 475 1567 1033 1928; baseline 0 -94"><span class='ocrx_word' id='word_1_1' title='bbox 475 1567 1033 1928; x_wconf 95' lang='lat' dir='ltr'>     </span> <span class='ocrx_word' id='word_1_2' title='bbox 903 1702 1033 1928; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 535 1726 903 1819">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 535 1726 903 1819">
+     <span class='ocr_line' id='line_1_2' title="bbox 535 1726 903 1819; baseline 0 -47"><span class='ocrx_word' id='word_1_3' title='bbox 535 1789 567 1819; x_wconf 50' lang='grc' dir='ltr'><strong><em>ά</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 604 1727 693 1772; x_wconf 65' lang='lat' dir='ltr'><strong>..¹²JN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 724 1726 903 1774; x_wconf 74' lang='lat'>221957</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 510 1804 991 1893">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 510 1804 991 1899">
+     <span class='ocr_line' id='line_1_3' title="bbox 510 1804 991 1893; baseline -0.042 6"><span class='ocrx_word' id='word_1_6' title='bbox 510 1831 512 1834; x_wconf 16' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_7' title='bbox 551 1810 731 1892; x_wconf 44' lang='lat' dir='ltr'>‘tofsssm</span> <span class='ocrx_word' id='word_1_8' title='bbox 750 1862 790 1893; x_wconf 71' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_9' title='bbox 805 1804 956 1888; x_wconf 36' lang='lat'>1030&amp;</span> <span class='ocrx_word' id='word_1_10' title='bbox 986 1833 991 1840; x_wconf 55' lang='lat'>&#39;⁴</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
